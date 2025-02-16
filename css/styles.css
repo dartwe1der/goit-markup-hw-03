@@ -239,6 +239,7 @@ li > .padro:focus {
 }
 
 .minglav {
+   margin-bottom: 8px;
    font-weight: 500;
    font-size: 20px;
    line-height: 1.2;
