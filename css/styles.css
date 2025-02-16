@@ -31,11 +31,14 @@ img {
 }
 
 .container {
-   max-width: 1440px;
+   padding: 0 15px 0 15px;
+   width: 1158px;
+   margin: 0 auto;
+   /* max-width: 1440px;
    padding-left: 0px;
    padding-right: 0px;
    margin-left: 0px;
-   margin-right: 0px;
+   margin-right: 0px; */
 }
 
 .ula {
@@ -80,7 +83,7 @@ li > .nav-li:hover {
 li > .nav-li:focus {
    color: #404bbf;
 }
-.padre {
+.container .padre {
    display: flex;
    gap: 40px;
    font-style: normal;
