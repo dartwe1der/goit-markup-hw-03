@@ -140,7 +140,7 @@ li > .padro:focus {
    padding: 120px 0;
 }
 
-.visually-hidden {
+.container .visually-hidden {
    display: none;
 }
 
@@ -149,7 +149,7 @@ li > .padro:focus {
    gap: 24px;
 }
 
-.secli {
+.secul .secli {
    width: calc((100% - 72px) / 4);
 }
 
@@ -188,7 +188,7 @@ li > .padro:focus {
    gap: 24px;
 }
 
-.list {
+.ulsec .list {
    width: calc((100% - 72px) / 4);
    border-radius: 0px 0px 4px 4px;
    background-color: #FFFFFF;
@@ -208,6 +208,7 @@ li > .padro:focus {
 
 .clsc {
    padding-top: 120px;
+   padding-bottom: 120px;
 }
 
 .glav {
@@ -227,7 +228,7 @@ li > .padro:focus {
    row-gap: 48px;
 }
 
-.clscli {
+.clscul .clscli {
    width: calc((100% - 48px) / 3);
 }
 
