@@ -74,9 +74,7 @@ li > .nav-li:hover {
 li > .nav-li:focus {
    color: #404bbf;
 }
-.container .padre {
-   display: flex;
-   gap: 40px;
+.padre {
    font-style: normal;
 }
 
