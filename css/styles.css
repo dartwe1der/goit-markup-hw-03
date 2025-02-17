@@ -84,6 +84,7 @@ li > .nav-li:focus {
 }
 
 .padro {
+   justify-content: end;
    text-decoration-line: inherit;
    font-size: 16px;
    line-height: 1.5;
